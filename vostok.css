@@ -1,0 +1,102 @@
+h1 {
+	font-family: 'Russo One';
+	font-size: 3.5em;
+	text-align: center;
+}
+
+#aa {
+	color: 	#FFD700;
+	text-align: center;
+	font-family: "Russo One";
+}
+
+h2 {
+	font-size: 3em;
+}
+
+h3 {
+	font-size: 2em;
+	font-weight: bold;
+}
+
+h4 {
+	font-size: 1.5em;
+	font-family: 'Russo One';
+	font-weight: bold;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+	height: 100px;
+	width: 100%;
+	text-align: left;
+	border-collapse: collapse;
+	font-family: 'Trebuchet';
+}
+
+tr {
+	border: 1px solid black;
+	text-align: center;
+	background-color: orange; 
+}
+
+th {
+	text-align: center;
+	color: #ffffff;
+	background-color: red;
+}
+
+footer {
+	background-color: #ff4500;
+	height: 5%;
+}
+
+#about {
+	font-size: 14px;
+	color: black;
+}
+
+#page-title {
+	border-radius: 25px;
+    background: red;
+    background-repeat: repeat;
+    padding: 20px; 
+    width: 70%;
+    height: 125px;
+    margin: auto;
+}
+
+#p1 {
+	font-weight: bold;
+	font-size: 1em;
+}
+
+#project {
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.bg { 
+    background-image: url(images/topol.jpg);
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg2 { 
+    background-image: url(images/navalcamo.png);
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg3 { 
+    background-image: url(images/kosmonaut.png);
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
